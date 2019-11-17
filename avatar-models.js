@@ -45,11 +45,6 @@ export default JSON.parse(`[
     "icon": ""
   },
   {
-    "label": "model10.glb",
-    "url": "model10.glb",
-    "icon": ""
-  },
-  {
     "label": "model10.vrm",
     "url": "model10.vrm",
     "icon": ""
