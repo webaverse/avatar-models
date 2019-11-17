@@ -1,31 +1,147 @@
-export default JSON.parse(`[
-  "model.glb",
-  "model2.vrm",
-  "model3.unitypackage",
-  "model4.zip",
-  "model5.fbx",
-  "model6.zip",
-  "model7.vrm",
-  "model8.vrm",
-  "model9.vrm",
-  "model10.glb",
-  "model10.vrm",
-  "model11.vrm",
-  "model12.fbx",
-  "model13.zip",
-  "model14.zip",
-  "model15.zip",
-  "model16.zip",
-  "model17.zip",
-  "model18.zip",
-  "model19.zip",
-  "model20.zip",
-  "model21.zip",
-  "model22.zip",
-  "model23.zip",
-  "model24.zip",
-  "model25.zip",
-  "model26.zip",
-  "model27.png",
-  "model28.png"
-]`)
+export default JSON.parse(`"[
+  {
+    "label": "",
+    "url": "model.glb",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model2.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model3.unitypackage",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model4.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model5.fbx",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model6.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model7.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model8.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model9.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model10.glb",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model10.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model11.vrm",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model12.fbx",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model13.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model14.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model15.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model16.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model17.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model18.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model19.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model20.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model21.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model22.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model23.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model24.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model25.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model26.zip",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model27.png",
+    "icon": ""
+  },
+  {
+    "label": "",
+    "url": "model28.png",
+    "icon": ""
+  }
+]"`)
