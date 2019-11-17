@@ -1,4 +1,4 @@
-[
+export default JSON.parse(`[
   "model.glb",
   "model2.vrm",
   "model3.unitypackage",
@@ -28,4 +28,4 @@
   "model26.zip",
   "model27.png",
   "model28.png"
-]
+]`)
