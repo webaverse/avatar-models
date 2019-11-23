@@ -57,11 +57,11 @@
   {
     "label": "model12.fbx",
     "url": "model12.fbx",
-    "icon": "model12.png"
+    "icon": "model11.png"
   },
   {
-    "label": "model13.zip",
-    "url": "model13.zip",
+    "label": "model13.fbx",
+    "url": "model13.fbx",
     "icon": "model13.png"
   },
   {
@@ -130,13 +130,18 @@
     "icon": "model26.png"
   },
   {
-    "label": "model27.png",
-    "url": "model27.png",
+    "label": "model27.zip",
+    "url": "model27.zip",
     "icon": "model27.png"
   },
   {
     "label": "model28.png",
     "url": "model28.png",
     "icon": "model28.png"
+  },
+  {
+    "label": "model29.png",
+    "url": "model29.png",
+    "icon": "model29.png"
   }
 ]
