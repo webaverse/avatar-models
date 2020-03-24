@@ -55,48 +55,48 @@
     "icon": "model11.png"
   },
   {
-    "label": "model12.fbx",
-    "url": "model12.fbx",
+    "label": "model12.vrm",
+    "url": "model12.vrm",
     "icon": "model12.png"
   },
   {
-    "label": "model13.fbx",
-    "url": "model13.fbx",
+    "label": "model13.vrm",
+    "url": "model13.vrm",
     "icon": "model13.png"
   },
   {
-    "label": "model14.zip",
-    "url": "model14.zip",
+    "label": "model14.vrm",
+    "url": "model14.vrm",
     "icon": "model14.png"
   },
   {
-    "label": "model15.zip",
-    "url": "model15.zip",
+    "label": "model15.vrm",
+    "url": "model15.vrm",
     "icon": "model15.png"
   },
   {
-    "label": "model16.zip",
-    "url": "model16.zip",
+    "label": "model16.vrm",
+    "url": "model16.vrm",
     "icon": "model16.png"
   },
   {
-    "label": "model17.zip",
-    "url": "model17.zip",
+    "label": "model17.vrm",
+    "url": "model17.vrm",
     "icon": "model17.png"
   },
   {
-    "label": "model18.zip",
-    "url": "model18.zip",
+    "label": "model18.vrm",
+    "url": "model18.vrm",
     "icon": "model18.png"
   },
   {
-    "label": "model19.zip",
-    "url": "model19.zip",
+    "label": "model19.fbx",
+    "url": "model19.fbx",
     "icon": "model19.png"
   },
   {
-    "label": "model20.zip",
-    "url": "model20.zip",
+    "label": "model20.fbx",
+    "url": "model20.fbx",
     "icon": "model20.png"
   },
   {
@@ -135,13 +135,48 @@
     "icon": "model27.png"
   },
   {
-    "label": "model28.png",
-    "url": "model28.png",
+    "label": "model28.zip",
+    "url": "model28.zip",
     "icon": "model28.png"
   },
   {
-    "label": "model29.png",
-    "url": "model29.png",
+    "label": "model29.zip",
+    "url": "model29.zip",
     "icon": "model29.png"
+  },
+  {
+    "label": "model30.zip",
+    "url": "model30.zip",
+    "icon": "model30.png"
+  },
+  {
+    "label": "model31.zip",
+    "url": "model31.zip",
+    "icon": "model31.png"
+  },
+  {
+    "label": "model32.zip",
+    "url": "model32.zip",
+    "icon": "model32.png"
+  },
+  {
+    "label": "model33.zip",
+    "url": "model33.zip",
+    "icon": "model33.png"
+  },
+  {
+    "label": "model34.zip",
+    "url": "model34.zip",
+    "icon": "model34.png"
+  },
+  {
+    "label": "model35.png",
+    "url": "model35.png",
+    "icon": "model35.png"
+  },
+  {
+    "label": "model36.png",
+    "url": "model36.png",
+    "icon": "model36.png"
   }
 ]
